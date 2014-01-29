@@ -1,0 +1,1274 @@
+/--------------------------------------
+[observation]========================================
+0754+100        07:57:06.642950 +09:56:34.85224 J2000
+start= 01.03.2014 04:00:00
+stop = 01.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =4.9xED PA=165.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1253-055        12:56:11.166557 -05:47:21.52489 J2000
+start= 01.03.2014 06:00:00
+stop = 01.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ev Sv Zc Ro Kl Hh
+PRM = CK
+baseline =18.9xED PA=88.1
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0604+728        06:10:48.873417 +72:48:53.18435 J2000
+start= 02.03.2014 03:00:00
+stop = 02.03.2014 04:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ev Sv Zc Bd Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =12.5xED PA=140.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1253-055        12:56:11.166557 -05:47:21.52489 J2000
+start= 02.03.2014 06:00:00
+stop = 02.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ev Sv Zc Ro Hh
+PRM = CK
+baseline =10.3xED PA=92.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1510-089        15:12:50.532926 -09:05:59.82980 J2000
+start= 02.03.2014 09:00:00
+stop = 02.03.2014 10:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ro Hh
+PRM = CL
+baseline =9.7xED PA=89.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+CIRCINUS_H2O            14:13:09.95 -65:20:21.2 J2000
+start= 03.03.2014 21:00:00
+stop = 03.03.2014 22:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = At Mp Ho Cd Pa Td
+PRM = KK
+baseline =15.4xED PA=59.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+NGC2071_H2O            05:47:04.758 00:21:42.70 J2000
+start= 03.03.2014 01:00:00
+stop = 03.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Mc Nt Ys Tr Ro Hn
+PRM = KK
+baseline =2.1xED PA=36.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+ORION_H2O           05:35:14.1255 -05:22:36.475 J2000
+start= 04.03.2014 01:00:00
+stop = 04.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Mc Nt Ys Ro Hn
+PRM = KK
+baseline =4.3xED PA=116.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0604+728        06:10:48.873417 +72:48:53.18435 J2000
+start= 04.03.2014 03:00:00
+stop = 04.03.2014 04:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ev Ro Kl Tm Ud
+PRM = CL
+baseline =17.2xED PA=175.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0537-441        05:38:50.361557 -44:05:08.93893 J2000
+start= 04.03.2014 06:00:00
+stop = 04.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = At Mp Ho Td
+PRM = CL
+baseline =10.9xED PA=25.1
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+ORION_H2O           05:35:14.1255 -05:22:36.475 J2000
+start= 04.03.2014 19:00:00
+stop = 04.03.2014 20:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Ev Ef Mc Nt Ys Tr Hh Ro Kl
+PRM = KK
+baseline =6.9xED PA=105.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0507+179        05:10:02.369131 +18:00:41.58163 J2000
+start= 05.03.2014 02:00:00
+stop = 05.03.2014 02:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =13.8xED PA=134.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0754+100        07:57:06.642950 +09:56:34.85224 J2000
+start= 05.03.2014 04:00:00
+stop = 05.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =9.4xED PA=37.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0528+134        05:30:56.416749 +13:31:55.14945 J2000
+start= 06.03.2014 01:00:00
+stop = 06.03.2014 01:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =14.1xED PA=128.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0657+172        07:00:01.525541 +17:09:21.70122 J2000
+start= 06.03.2014 03:00:00
+stop = 06.03.2014 04:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =11.0xED PA=171.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0536+145        05:39:42.365993 +14:33:45.56168 J2000
+start= 07.03.2014 01:00:00
+stop = 07.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =15.0xED PA=126.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0808+019        08:11:26.707316 +01:46:52.22014 J2000
+start= 07.03.2014 04:00:00
+stop = 07.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =6.1xED PA=49.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1510-089        15:12:50.532926 -09:05:59.82980 J2000
+start= 07.03.2014 06:00:00
+stop = 07.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ev Ro Kl
+PRM = CL
+baseline =24.3xED PA=78.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0851+202        08:54:48.874930 +20:06:30.64078 J2000
+start= 08.03.2014 04:00:00
+stop = 08.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ev Ro Kl
+PRM = CL
+baseline =13.2xED PA=36.6
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0604+728        06:10:48.873417 +72:48:53.18435 J2000
+start= 09.03.2014 01:00:00
+stop = 09.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ev Ro Kl Tm Ud
+PRM = CL
+baseline =21.7xED PA=151.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0851+202        08:54:48.874930 +20:06:30.64078 J2000
+start= 09.03.2014 04:00:00
+stop = 09.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ev Ro Kl
+PRM = CL
+baseline =10.2xED PA=30.3
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1510-089        15:12:50.532926 -09:05:59.82980 J2000
+start= 09.03.2014 22:00:00
+stop = 09.03.2014 23:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Pa At Mp Ho Td Tm Ud
+PRM = CL
+baseline =17.0xED PA=87.3
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0657+172        07:00:01.525541 +17:09:21.70122 J2000
+start= 10.03.2014 02:00:00
+stop = 10.03.2014 02:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ro
+PRM = CL
+baseline =7.9xED PA=127.3
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0851+202        08:54:48.874930 +20:06:30.64078 J2000
+start= 10.03.2014 04:00:00
+stop = 10.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ev Ro Kl
+PRM = CL
+baseline =6.0xED PA=17.1
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1128+385        11:30:53.282615 +38:15:18.54689 J2000
+start= 10.03.2014 07:00:00
+stop = 10.03.2014 08:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ev Ro Kl
+PRM = CL
+baseline =12.0xED PA=55.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1641+399        16:42:58.809963 +39:48:36.99385 J2000
+start= 10.03.2014 09:20:00
+stop = 10.03.2014 10:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ev Gb Wb Ur Go Kl
+PRM = CK
+baseline =12.5xED PA=109.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1253-055        12:56:11.166557 -05:47:21.52489 J2000
+start= 10.03.2014 17:10:00
+stop = 11.03.2014 04:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = globalVLBI
+PRM = KK
+baseline =0.0xED PA=0.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1424-418        14:27:56.297562 -42:06:19.43770 J2000
+start= 12.03.2014 00:00:00
+stop = 12.03.2014 01:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Pa At Mp Ho Td Tm Sh Hh
+PRM = CL
+baseline =13.3xED PA=58.1
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1150+497        11:53:24.466639 +49:31:08.83012 J2000
+start= 12.03.2014 03:00:00
+stop = 12.03.2014 04:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur
+PRM = CL
+baseline =14.8xED PA=77.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0607-157        06:09:40.949536 -15:42:40.67271 J2000
+start= 12.03.2014 19:30:00
+stop = 12.03.2014 20:10:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
+PRM = CL
+baseline =3.0xED PA=62.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0805-077        08:08:15.536034 -07:51:09.88656 J2000
+start= 13.03.2014 01:00:00
+stop = 13.03.2014 01:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
+PRM = CL
+baseline =7.5xED PA=80.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0851+202        08:54:48.874930 +20:06:30.64078 J2000
+start= 13.03.2014 04:00:00
+stop = 13.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Sv Mc Nt Tr Ro Kl
+PRM = CK
+baseline =14.6xED PA=47.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0607-157        06:09:40.949536 -15:42:40.67271 J2000
+start= 13.03.2014 19:30:00
+stop = 13.03.2014 20:10:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
+PRM = CL
+baseline =6.1xED PA=66.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0648-165        06:50:24.581861 -16:37:39.72548 J2000
+start= 14.03.2014 00:00:00
+stop = 14.03.2014 01:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Mc Nt Tr Ro Hh
+PRM = CK
+baseline =3.9xED PA=32.6
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0953+254        09:56:49.875379 +25:15:16.04978 J2000
+start= 14.03.2014 06:00:00
+stop = 14.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Sv Mc Nt Tr Ro
+PRM = CL
+baseline =19.9xED PA=55.6
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0607-157        06:09:40.949536 -15:42:40.67271 J2000
+start= 14.03.2014 19:30:00
+stop = 14.03.2014 20:30:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
+PRM = CL
+baseline =8.5xED PA=67.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0642+449        06:46:32.026000 +44:51:16.59010 J2000
+start= 15.03.2014 01:00:00
+stop = 15.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl
+PRM = CL
+baseline =21.0xED PA=168.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0823+033        08:25:50.338355 +03:09:24.51995 J2000
+start= 15.03.2014 04:00:00
+stop = 15.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Ro
+PRM = CL
+baseline =8.1xED PA=54.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0754+100        07:57:06.642950 +09:56:34.85224 J2000
+start= 16.03.2014 03:00:00
+stop = 16.03.2014 03:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Mc Nt Tr Ro
+PRM = CL
+baseline =7.1xED PA=12.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0851+202        08:54:48.874930 +20:06:30.64078 J2000
+start= 16.03.2014 05:00:00
+stop = 16.03.2014 06:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Jb Ys Mc Tr Ro
+PRM = CK
+baseline =13.2xED PA=36.3
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0607-157        06:09:40.949536 -15:42:40.67271 J2000
+start= 16.03.2014 20:00:00
+stop = 16.03.2014 21:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
+PRM = CL
+baseline =11.1xED PA=69.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0722+145        07:25:16.807764 +14:25:13.74657 J2000
+start= 17.03.2014 02:00:00
+stop = 17.03.2014 02:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Sv Mc Nt Tr Ro
+PRM = CL
+baseline =8.2xED PA=154.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0823+033        08:25:50.338355 +03:09:24.51995 J2000
+start= 17.03.2014 04:00:00
+stop = 17.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Ro
+PRM = CL
+baseline =3.8xED PA=39.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1128+385        11:30:53.282615 +38:15:18.54689 J2000
+start= 17.03.2014 06:00:00
+stop = 17.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl
+PRM = CL
+baseline =20.7xED PA=61.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1424-418        14:27:56.297562 -42:06:19.43770 J2000
+start= 17.03.2014 19:30:00
+stop = 17.03.2014 20:30:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Pa At Mp Ho Td Tm Sh
+PRM = CL
+baseline =20.0xED PA=86.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0805-077        08:08:15.536034 -07:51:09.88656 J2000
+start= 18.03.2014 00:00:00
+stop = 18.03.2014 00:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Hh
+PRM = CL
+baseline =1.8xED PA=26.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1128+385        11:30:53.282615 +38:15:18.54689 J2000
+start= 18.03.2014 02:00:00
+stop = 18.03.2014 02:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Tr Kl Go Ur Hh
+PRM = CL
+baseline =15.7xED PA=58.6
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0823+033        08:25:50.338355 +03:09:24.51995 J2000
+start= 18.03.2014 04:00:00
+stop = 18.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Ro
+PRM = CL
+baseline =1.6xED PA=174.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0646-306        06:48:14.096458 -30:44:19.65976 J2000
+start= 18.03.2014 05:40:00
+stop = 18.03.2014 06:20:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = At Mp Ho Td
+PRM = CL
+baseline =11.0xED PA=44.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1641+399        16:42:58.809963 +39:48:36.99385 J2000
+start= 18.03.2014 07:20:00
+stop = 18.03.2014 08:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Gb Wb Mc Ys Tr Hh Jb Ur Kl
+PRM = CK
+baseline =15.3xED PA=111.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+B1641-45        16:44:49.281000 -45:59:09.50000 J2000
+start= 18.03.2014 17:00:00
+stop = 19.03.2014 11:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = LBA
+PRM = LL
+baseline =0.0xED PA=0.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1150+497        11:53:24.466639 +49:31:08.83012 J2000
+start= 19.03.2014 23:00:00
+stop = 19.03.2014 23:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =8.8xED PA=84.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1424-418        14:27:56.297562 -42:06:19.43770 J2000
+start= 20.03.2014 01:00:00
+stop = 20.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = At Mp Ho Td Hh
+PRM = CL
+baseline =10.0xED PA=51.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0642+449        06:46:32.026000 +44:51:16.59010 J2000
+start= 20.03.2014 04:00:00
+stop = 20.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Jb Ys Sv Mc Nt Tr Ro Kl
+PRM = CL
+baseline =10.2xED PA=16.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0648-165        06:50:24.581861 -16:37:39.72548 J2000
+start= 20.03.2014 23:00:00
+stop = 20.03.2014 23:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Mc Nt Tr Ro Hh
+PRM = CK
+baseline =1.9xED PA=142.1
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0642+449        06:46:32.026000 +44:51:16.59010 J2000
+start= 21.03.2014 01:00:00
+stop = 21.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl
+PRM = CL
+baseline =15.9xED PA=4.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0827+243        08:30:52.086193 +24:10:59.82026 J2000
+start= 21.03.2014 04:00:00
+stop = 21.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Sv Mc Nt Tr Ro
+PRM = CL
+baseline =13.8xED PA=41.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0906+015        09:09:10.091598 +01:21:35.61771 J2000
+start= 22.03.2014 04:00:00
+stop = 22.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Mc Ro
+PRM = CL
+baseline =13.3xED PA=70.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0722+145        07:25:16.807764 +14:25:13.74657 J2000
+start= 23.03.2014 01:00:00
+stop = 23.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Ev Ef Gb Wb Mc Nt Ys Tr Jb Ro Go Kl
+PRM = CL
+baseline =10.0xED PA=7.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1150+497        11:53:24.466639 +49:31:08.83012 J2000
+start= 23.03.2014 04:00:00
+stop = 23.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur
+PRM = CL
+baseline =26.3xED PA=69.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0648-165        06:50:24.581861 -16:37:39.72548 J2000
+start= 23.03.2014 19:00:00
+stop = 23.03.2014 20:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Go Ur Hh
+PRM = CL
+baseline =6.1xED PA=45.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0805-077        08:08:15.536034 -07:51:09.88656 J2000
+start= 24.03.2014 00:00:00
+stop = 24.03.2014 00:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
+PRM = CL
+baseline =4.5xED PA=96.3
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0748+126        07:50:52.045731 +12:31:04.82815 J2000
+start= 24.03.2014 02:00:00
+stop = 23.03.2014 03:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Mc Nt Tr Ro
+PRM = CL
+baseline =8.7xED PA=12.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1642+690        16:42:07.848507 +68:56:39.75636 J2000
+start= 24.03.2014 05:00:00
+stop = 24.03.2014 06:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =24.8xED PA=134.3
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0736+017        07:39:18.033897 +01:37:04.61773 J2000
+start= 24.03.2014 19:50:00
+stop = 24.03.2014 20:30:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Wb Mc Nt Ys Tr Hh Jb Sh Tm Ur Ro Kl
+PRM = CK
+baseline =3.2xED PA=167.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0743-006        07:45:54.082322 -00:44:17.54000 J2000
+start= 24.03.2014 22:00:00
+stop = 24.03.2014 22:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Ev Ef Wb Mc Nt Ys Tr Hh Jb Ro Kl
+PRM = PL
+baseline =2.0xED PA=1.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0648-165        06:50:24.581861 -16:37:39.72548 J2000
+start= 25.03.2014 00:00:00
+stop = 25.03.2014 01:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Wb Mc Nt Ys Hh Jb Ro
+PRM = CK
+baseline =8.0xED PA=53.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0906+015        09:09:10.091598 +01:21:35.61771 J2000
+start= 25.03.2014 04:00:00
+stop = 25.03.2014 04:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Ro
+PRM = CL
+baseline =8.4xED PA=72.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1040+244        10:43:09.035778 +24:08:35.40933 J2000
+start= 25.03.2014 06:00:00
+stop = 25.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Sv Mc Nt Tr Ro
+PRM = CL
+baseline =18.6xED PA=61.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0716+714        07:21:53.448474 +71:20:36.36340 J2000
+start= 25.03.2014 20:00:00
+stop = 25.03.2014 21:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =21.0xED PA=168.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0648-165        06:50:24.581861 -16:37:39.72548 J2000
+start= 25.03.2014 23:00:00
+stop = 25.03.2014 23:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Mc Nt Tr Ro Hh
+PRM = CL
+baseline =8.7xED PA=58.4
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1150+497        11:53:24.466639 +49:31:08.83012 J2000
+start= 26.03.2014 01:00:00
+stop = 26.03.2014 02:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh
+PRM = CL
+baseline =19.9xED PA=61.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1642+690        16:42:07.848507 +68:56:39.75636 J2000
+start= 26.03.2014 05:00:00
+stop = 26.03.2014 06:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =19.6xED PA=125.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1611+343        16:13:41.064242 +34:12:47.90878 J2000
+start= 26.03.2014 07:20:00
+stop = 26.03.2014 08:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Gb Wb Mc Nt Ys Tr Hh Jb Ur Ro Kl
+PRM = CL
+baseline =18.0xED PA=105.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0716+714        07:21:53.448474 +71:20:36.36340 J2000
+start= 26.03.2014 19:00:00
+stop = 26.03.2014 20:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =15.2xED PA=159.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0919-260        09:21:29.353855 -26:18:43.38632 J2000
+start= 26.03.2014 22:00:00
+stop = 26.03.2014 22:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Zc Mc Nt Tr Ro Hh
+PRM = CL
+baseline =6.8xED PA=155.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1642+690        16:42:07.848507 +68:56:39.75636 J2000
+start= 27.03.2014 00:00:00
+stop = 27.03.2014 01:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =13.9xED PA=119.5
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0851+202        08:54:48.874930 +20:06:30.64078 J2000
+start= 27.03.2014 03:00:00
+stop = 27.03.2014 04:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Sv Mc Nt Tr Ro Kl
+PRM = CK
+baseline =4.4xED PA=0.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0716+714        07:21:53.448474 +71:20:36.36340 J2000
+start= 27.03.2014 06:00:00
+stop = 27.03.2014 07:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
+PRM = CL
+baseline =11.6xED PA=154.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+SN2014J               09:55:42.217 +69:40:26.56 J2000
+start= 27.03.2014 08:20:00
+stop = 27.03.2014 09:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Mc Nt Ys Tr Ud Kl
+PRM = CL
+baseline =10.6xED PA=13.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1322-427        13:25:27.615212 -43:01:08.80473 J2000
+start= 27.03.2014 16:50:00
+stop = 27.03.2014 21:05:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = LBA
+PRM = KK
+baseline =0.0xED PA=0.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0919-260        09:21:29.353855 -26:18:43.38632 J2000
+start= 28.03.2014 23:00:00
+stop = 29.03.2014 00:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
+PRM = CL
+baseline =11.1xED PA=95.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0648-165        06:50:24.581861 -16:37:39.72548 J2000
+start= 29.03.2014 20:00:00
+stop = 29.03.2014 21:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Ev Ef Wb Mc Nt Ys Tr Hh Jb Ro Kl
+PRM = CL
+baseline =2.1xED PA=161.2
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0727-115        07:30:19.112473 -11:41:12.60063 J2000
+start= 29.03.2014 23:00:00
+stop = 30.03.2014 00:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Gb Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
+PRM = CK
+baseline =4.3xED PA=93.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0736+017        07:39:18.033897 +01:37:04.61773 J2000
+start= 30.03.2014 02:00:00
+stop = 29.03.2014 03:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Mc Ro
+PRM = CL
+baseline =6.4xED PA=44.8
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1324+574        13:26:50.572337 +57:12:06.74540 J2000
+start= 30.03.2014 17:00:00
+stop = 30.03.2014 18:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Gb Mc Nt Ys Tr Jb Sh Tm Ur Ud Ro Go Kl
+PRM = CL
+baseline =23.7xED PA=89.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0727-115        07:30:19.112473 -11:41:12.60063 J2000
+start= 30.03.2014 20:00:00
+stop = 30.03.2014 21:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Ev Ef Wb Mc Nt Ys Tr Hh Jb Ro Kl
+PRM = CL
+baseline =2.9xED PA=112.1
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0919-260        09:21:29.353855 -26:18:43.38632 J2000
+start= 30.03.2014 23:00:00
+stop = 31.03.2014 00:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
+PRM = CL
+baseline =14.9xED PA=112.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1005+066        10:08:00.816157 +06:21:21.21593 J2000
+start= 31.03.2014 04:00:00
+stop = 31.03.2014 05:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Ef Wb Jb Ys Mc Nt Tr Ro
+PRM = CL
+baseline =18.3xED PA=72.0
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0727-115        07:30:19.112473 -11:41:12.60063 J2000
+start= 31.03.2014 19:00:00
+stop = 31.03.2014 20:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Go Ur Hh
+PRM = CK
+baseline =2.1xED PA=154.9
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0736+017        07:39:18.033897 +01:37:04.61773 J2000
+start= 01.04.2014 02:00:00
+stop = 01.04.2014 02:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Ar Gb Wb Jb Ys Ro
+PRM = CL
+baseline =4.1xED PA=17.7
+power =
+fmode = F3/F3
+obscode =
+/--------------------------------------
