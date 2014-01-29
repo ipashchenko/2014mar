@@ -870,7 +870,7 @@ obscode =
 [observation]========================================
 0748+126        07:50:52.045731 +12:31:04.82815 J2000
 start= 24.03.2014 02:00:00
-stop = 23.03.2014 03:00:00
+stop = 24.03.2014 03:00:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5 GB_TS -10 +5
 GRT = Ar Gb Ef Wb Jb Ys Mc Nt Tr Ro
@@ -1178,7 +1178,7 @@ obscode =
 [observation]========================================
 0736+017        07:39:18.033897 +01:37:04.61773 J2000
 start= 30.03.2014 02:00:00
-stop = 29.03.2014 03:00:00
+stop = 30.03.2014 03:00:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5 GB_TS -10 +5
 GRT = Ar Gb Wb Jb Ys Mc Ro
