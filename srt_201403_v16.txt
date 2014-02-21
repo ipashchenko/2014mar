@@ -846,6 +846,62 @@ obscode =
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
+1611+343        16:13:41.064242 +34:12:47.90878 J2000
+start= 19.03.2014 05:00:00
+stop = 19.03.2014 05:40:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Wb Mc Nt Ys Tr Hh Jb Sh Tm Ur Ro Kl
+PRM = CL
+baseline =6.9xED PA=97.9
+power =
+fmode =
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+1508+572        15:10:02.922371 +57:02:43.37583 J2000
+start= 19.03.2014 07:20:00
+stop = 19.03.2014 08:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Gb Wb Mc Nt Ys Tr Jb Ur Ro Go Kl
+PRM = CL
+baseline =5.5xED PA=81.4
+power =
+fmode =
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+0716+714        07:21:53.448474 +71:20:36.36340 J2000
+start= 19.03.2014 09:20:00
+stop = 19.03.2014 10:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Zc Bd Ev Ef Gb Mc Nt Ys Tr Jb Sh Tm Ur Ud Ro Go Kl
+PRM = CL
+baseline =3.8xED PA=124.1
+power =
+fmode =
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
+NGC4258_H2O     12:18:57.5046 47:18:14.303 J2000
+start= 19.03.2014 11:20:00
+stop = 19.03.2014 12:00:00
+SunVector_deflection =    .0deg
+TS = PUSH_TS -10 +5 GB_TS -10 +5
+GRT = Sv Bd Ef Mc Ys Tr Ro Kl
+PRM = KK
+baseline =0.8xED PA=161.1
+power =
+fmode =
+obscode =
+/--------------------------------------
+/--------------------------------------
+[observation]========================================
 1150+497        11:53:24.466639 +49:31:08.83012 J2000
 start= 19.03.2014 23:00:00
 stop = 19.03.2014 23:40:00
