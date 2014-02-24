@@ -494,7 +494,7 @@ stop = 12.03.2014 12:30:00
 start= 12.03.2014 19:30:00
 stop = 12.03.2014 20:10:00
 SunVector_deflection =    .0deg
-TS = GB_TS -10 +5 PUSH_TS -10 +5
+TS = PUSH_TS -10 +5
 GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
 PRM = CL
 baseline =3.0xED PA=62.2
@@ -1206,7 +1206,7 @@ obscode =
 start= 26.03.2014 01:00:00
 stop = 26.03.2014 02:00:00
 SunVector_deflection =    .0deg
-TS = GB_TS -10 +5 PUSH_TS -10 +5
+TS = GB_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh
 PRM = CL
 baseline =19.9xED PA=61.5
@@ -1220,7 +1220,7 @@ obscode =
 start= 26.03.2014 05:00:00
 stop = 26.03.2014 05:40:00
 SunVector_deflection =    .0deg
-TS = GB_TS -10 +5 PUSH_TS -10 +5
+TS = GB_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
 PRM = CL
 baseline =19.6xED PA=125.7
