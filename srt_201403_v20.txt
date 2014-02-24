@@ -494,7 +494,7 @@ stop = 12.03.2014 12:30:00
 start= 12.03.2014 19:30:00
 stop = 12.03.2014 20:10:00
 SunVector_deflection =    .0deg
-TS = PUSH_TS -10 +5
+TS = GB_TS -10 +5 PUSH_TS -10 +5
 GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
 PRM = CL
 baseline =3.0xED PA=62.2
@@ -876,7 +876,7 @@ obscode =
 [observation]========================================
 0716+714        07:21:53.448474 +71:20:36.36340 J2000
 start= 19.03.2014 09:20:00
-stop = 19.03.2014 10:00:00
+stop = 19.03.2014 09:50:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Sv Zc Bd Ev Ef Gb Mc Nt Ys Tr Jb Sh Tm Ur Ud Ro Go Kl
@@ -889,8 +889,8 @@ obscode =
 /--------------------------------------
 [observation]========================================
 NGC4258_H2O     12:18:57.504600 +47:18:14.30300 J2000
-start= 19.03.2014 11:20:00
-stop = 19.03.2014 11:50:00
+start= 19.03.2014 11:10:00
+stop = 19.03.2014 11:55:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Sv Bd Ef Mc Ys Tr Ro Kl
@@ -1206,7 +1206,7 @@ obscode =
 start= 26.03.2014 01:00:00
 stop = 26.03.2014 02:00:00
 SunVector_deflection =    .0deg
-TS = GB_TS -10 +5
+TS = GB_TS -10 +5 PUSH_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh
 PRM = CL
 baseline =19.9xED PA=61.5
@@ -1220,7 +1220,7 @@ obscode =
 start= 26.03.2014 05:00:00
 stop = 26.03.2014 05:40:00
 SunVector_deflection =    .0deg
-TS = GB_TS -10 +5
+TS = GB_TS -10 +5 PUSH_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
 PRM = CL
 baseline =19.6xED PA=125.7
