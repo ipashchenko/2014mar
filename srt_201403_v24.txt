@@ -429,7 +429,7 @@ stop = 12.03.2014 20:10:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
-PRM = CL
+PRM = CK
 baseline =3.0xED PA=62.2
 power = 40 W
 fmode = F3/F3
@@ -443,7 +443,7 @@ stop = 13.03.2014 01:40:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
-PRM = CL
+PRM = CK
 baseline =7.5xED PA=80.4
 power = 40 W
 fmode = F3/F3
@@ -471,7 +471,7 @@ stop = 13.03.2014 20:00:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Kl Hh
-PRM = CL
+PRM = CK
 baseline =6.1xED PA=66.0
 power = 40 W
 fmode = F3/F3
@@ -564,7 +564,7 @@ stop = 16.03.2014 03:40:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Ar Gb Ef Wb Jb Ys Mc Nt Tr Ro
-PRM = CL
+PRM = CK
 baseline =7.1xED PA=12.8
 power = 40 W
 fmode = F3/F3
@@ -673,7 +673,7 @@ stop = 18.03.2014 00:40:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Sv Zc Mc Nt Tr Ro Hh
-PRM = CL
+PRM = CK
 baseline =1.8xED PA=26.0
 power = 40 W
 fmode = F3/F3
@@ -771,7 +771,7 @@ stop = 19.03.2014 05:40:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Sv Zc Bd Ev Ef Wb Mc Nt Ys Tr Hh Jb Sh Tm Ur Ro Kl
-PRM = CL
+PRM = CK
 baseline =6.9xED PA=97.9
 power = 4 W
 fmode = F3/F3
@@ -948,7 +948,7 @@ stop = 23.03.2014 02:00:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Sv Ev Ef Gb Wb Mc Nt Ys Tr Jb Ro Go Kl
-PRM = CL
+PRM = CK
 baseline =10.0xED PA=7.4
 power = 40 W
 fmode = F3/F3
@@ -1001,7 +1001,7 @@ stop = 24.03.2014 00:40:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Gb Ef Wb Jb Ys Ev Mc Nt Tr Ro Hh
-PRM = CL
+PRM = CK
 baseline =4.5xED PA=96.3
 power = 40 W
 fmode = F3/F3
@@ -1057,7 +1057,7 @@ stop = 24.03.2014 22:40:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Sv Zc Ev Ef Wb Mc Nt Ys Tr Hh Jb Ro Kl
-PRM = PL
+PRM = CL
 baseline =2.0xED PA=1.8
 power = 40 W
 fmode = F3/F3
@@ -1188,7 +1188,7 @@ stop = 26.03.2014 22:40:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Ef Wb Jb Ys Ev Zc Mc Nt Tr Ro Hh
-PRM = CL
+PRM = CK
 baseline =6.8xED PA=155.5
 power = 40 W
 fmode = F3/F3
@@ -1202,7 +1202,7 @@ stop = 27.03.2014 01:00:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Gb Ef Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
-PRM = CL
+PRM = CK
 baseline =13.9xED PA=119.5
 power = 40 W
 fmode = F3/F3
@@ -1230,7 +1230,7 @@ stop = 27.03.2014 07:00:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Gb Ef Jb Ys Ev Sv Zc Bd Mc Nt Tr Ro Kl Go Ur Tm Sh Ud
-PRM = CL
+PRM = CK
 baseline =11.6xED PA=154.7
 power = 40 W
 fmode = F3/F3
@@ -1262,7 +1262,7 @@ PRM = KK
 baseline =0.0xED PA=0.0
 power = 4 W
 fmode = F3/F3
-obscode = raks01xh
+obscode = raks03d
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1276,7 +1276,7 @@ PRM = KK
 baseline =0.0xED PA=0.0
 power = 4 W
 fmode = F3/F3
-obscode = raks01xh
+obscode = raks03d
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1290,7 +1290,7 @@ PRM = KK
 baseline =0.0xED PA=0.0
 power = 4 W
 fmode = F3/F3
-obscode = raks01xh
+obscode = raks03d
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1304,7 +1304,7 @@ PRM = CL
 baseline =11.1xED PA=95.7
 power = 40 W
 fmode = F3/F3
-obscode = raks01xi
+obscode = raks01xh
 /--------------------------------------
 /--------------------------------------
 [SNS_COMMAND]=====================================
@@ -1319,11 +1319,11 @@ stop = 29.03.2014 21:00:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Sv Zc Ev Ef Wb Mc Nt Ys Tr Hh Jb Ro Kl
-PRM = CL
+PRM = CK
 baseline =2.1xED PA=161.2
 power = 40 W
 fmode = F3/F3
-obscode = raks01xj
+obscode = raks01xi
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1337,7 +1337,7 @@ PRM = CK
 baseline =4.3xED PA=93.9
 power = 40 W
 fmode = F3/F3
-obscode = raks01xk
+obscode = raks01xj
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1351,7 +1351,7 @@ PRM = CL
 baseline =6.4xED PA=44.8
 power = 40 W
 fmode = F3/F3
-obscode = raks01xl
+obscode = raks01xk
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1365,7 +1365,7 @@ PRM = CL
 baseline =23.7xED PA=89.7
 power = 40 W
 fmode = F3/F3
-obscode = raks01xm
+obscode = raks01xl
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1375,11 +1375,11 @@ stop = 30.03.2014 21:00:00
 SunVector_deflection =    .0deg
 TS = PUSH_TS -10 +5
 GRT = Sv Zc Ev Ef Wb Mc Nt Ys Tr Hh Jb Ro Kl
-PRM = CL
+PRM = CK
 baseline =2.9xED PA=112.1
 power = 40 W
 fmode = F3/F3
-obscode = raks01xn
+obscode = raks01xm
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1393,7 +1393,7 @@ PRM = CL
 baseline =14.9xED PA=112.0
 power = 40 W
 fmode = F3/F3
-obscode = raks01xo
+obscode = raks01xn
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1407,7 +1407,7 @@ PRM = CL
 baseline =18.3xED PA=72.0
 power = 40 W
 fmode = F3/F3
-obscode = raks01xp
+obscode = raks01xo
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
@@ -1421,7 +1421,7 @@ PRM = CK
 baseline =2.1xED PA=154.9
 power = 40 W
 fmode = F3/F3
-obscode = raks01xq
+obscode = raks01xp
 /--------------------------------------
 /--------------------------------------
 [observation]========================================
