@@ -1431,7 +1431,7 @@ stop = 01.04.2014 02:40:00
 SunVector_deflection =    .0deg
 TS = GB_TS -10 +5
 GRT = Ar Gb Wb Jb Ys Ro
-PRM = CL
+PRM = CK
 baseline =4.1xED PA=17.7
 power = 40 W
 fmode = F3/F3
