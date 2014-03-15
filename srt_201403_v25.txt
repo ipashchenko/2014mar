@@ -1281,10 +1281,10 @@ obscode = raks03d
 /--------------------------------------
 [observation]========================================
 1322-427        13:25:27.615212 -43:01:08.80473 J2000
-start= 27.03.2014 20:10:00
-stop = 27.03.2014 21:10:00
+start= 27.03.2014 20:40:00
+stop = 27.03.2014 22:10:00
 SunVector_deflection =    .0deg
-TS = PUSH_TS -5 +5
+TS = PUSH_TS -5 +4
 GRT = LBA
 PRM = KK
 baseline =0.0xED PA=0.0
@@ -1435,5 +1435,5 @@ PRM = CL
 baseline =4.1xED PA=17.7
 power = 40 W
 fmode = F3/F3
-obscode = raks01xr
+obscode = raks01xq
 /--------------------------------------
